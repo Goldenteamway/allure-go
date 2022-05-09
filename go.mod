@@ -2,6 +2,7 @@ module github.com/Goldenteamway/allure-go
 
 go 1.15
 
+
 require (
 	github.com/fatih/camelcase v1.0.0
 	github.com/gopherjs/gopherjs v0.0.0-20190915194858-d3ddacdb130f // indirect
