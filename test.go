@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dailymotion/allure-go/severity"
+	"github.com/Goldenteamway/allure-go/severity"
 	"github.com/fatih/camelcase"
 	"github.com/jtolds/gls"
 )

@@ -65,7 +65,7 @@ func filterStackTrace(stack []byte) string {
 		// for vendored code calls
 		if !strings.Contains(stringTraces[i+1], "allure-go/vendor/") &&
 			// for allure-go specific function calls
-			!strings.HasPrefix(stringTraces[i], "github.com/dailymotion/allure-go.") {
+			!strings.HasPrefix(stringTraces[i], "github.com/Goldenteamway/allure-go.") {
 			result += stringTraces[i] + "\n" + stringTraces[i+1] + "\n"
 		}
 	}

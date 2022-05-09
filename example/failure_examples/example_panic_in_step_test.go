@@ -1,7 +1,7 @@
 package failure_examples
 
 import (
-	"github.com/dailymotion/allure-go"
+	"github.com/Goldenteamway/allure-go"
 	"testing"
 )
 

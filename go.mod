@@ -1,6 +1,6 @@
-module github.com/dailymotion/allure-go
+module github.com/Goldenteamway/allure-go
 
-go 1.12
+go 1.15
 
 require (
 	github.com/fatih/camelcase v1.0.0

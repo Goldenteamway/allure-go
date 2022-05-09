@@ -2,7 +2,7 @@ package teardown
 
 import (
 	"errors"
-	"github.com/dailymotion/allure-go"
+	"github.com/Goldenteamway/allure-go"
 	"testing"
 )
 

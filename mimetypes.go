@@ -5,4 +5,5 @@ const (
 	ApplicationJson MimeType = "application/json"
 	TextPlain       MimeType = "text/plain"
 	VideoMpeg       MimeType = "video/mpeg"
+	Html            MimeType = "text/html"
 )

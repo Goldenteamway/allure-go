@@ -33,7 +33,7 @@
 ## Installation
 In order to retrieve `allure-go` simply run the following command (assuming `Go` is installed):
 ```sh
-$ go get -u github.com/dailymotion/allure-go
+$ go get -u github.com/Goldenteamway/allure-go
 ```
 
 ## Usage
@@ -72,7 +72,7 @@ package test
 
 import (
         "fmt"
-        "github.com/dailymotion/allure-go"
+        "github.com/Goldenteamway/allure-go"
         "testing"
 )
  
@@ -92,7 +92,7 @@ package test
 
 import (
         "fmt"
-        "github.com/dailymotion/allure-go"
+        "github.com/Goldenteamway/allure-go"
         "testing"
 )
  
@@ -191,7 +191,7 @@ In order to specify a parameter refer to the following example:
 package test
 
 import (
-           "github.com/dailymotion/allure-go"
+           "github.com/Goldenteamway/allure-go"
            "testing"
         )     
 
@@ -211,7 +211,7 @@ Allure parameters integrate neatly with Golang's parameterized tests too:
 package test
 
 import (
-           "github.com/dailymotion/allure-go"
+           "github.com/Goldenteamway/allure-go"
            "testing"
         )
 
@@ -237,7 +237,7 @@ package test
 
 import (
             "errors"
-            "github.com/dailymotion/allure-go"
+            "github.com/Goldenteamway/allure-go"
             "log"
             "testing"
    )
@@ -272,7 +272,7 @@ Please refer to the following example of setup/teardown usage:
 package test
 
 import (
-        "github.com/dailymotion/allure-go"
+        "github.com/Goldenteamway/allure-go"
         "testing"
 )
 func TestAllureSetupTeardown(t *testing.T) {
